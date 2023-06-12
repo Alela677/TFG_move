@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\atletismo.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\atletismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\baloncesto.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\baloncesto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\balonmano.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\balonmano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\futbol.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\futbol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\golf.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\golf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\natacion.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\natacion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\padel.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\padel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\tenis.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\tenis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgdeportes\\tenismesa.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\imgdeportes\\tenismesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alejandro\\Desktop\\Move\\MoveAPI\\MoveAPI\\wwwroot\\Imagenes\\imgperfil\\default_user.png",
+      "PackagePath": "staticwebassets\\Imagenes\\imgperfil\\default_user.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.MoveAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.MoveAPI.props",
+      "PackagePath": "build\\MoveAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MoveAPI.props",
+      "PackagePath": "buildMultiTargeting\\MoveAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.MoveAPI.props",
+      "PackagePath": "buildTransitive\\MoveAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
